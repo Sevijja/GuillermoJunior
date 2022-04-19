@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=guillermojunior&label=Total%20de%20visualizações&color=0e75b6&style=flat" alt="guillermojunior" />
 
-<a href="https://twitter.com/franciscpd" target="blank"><img src="https://img.shields.io/twitter/follow/sevijja?logo=twitter&style=for-the-badge" alt="Guillermo" />
+<a href="https://twitter.com/@Gui_sevijja" target="blank"><img src="https://img.shields.io/twitter/follow/sevijja?logo=twitter&style=for-the-badge" alt="Guillermo" />
 
 <p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guillermojunior&theme=onedark&row=1&margin-w=5" alt="guillermo" /></a> </p>
 
